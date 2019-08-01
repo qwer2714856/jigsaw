@@ -1,0 +1,24 @@
+{
+  "name": "jigsaw",
+  "version": "0.0.0-development-released",
+  "description": "canvas滑动验证码",
+  "main": "jigsaw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qwer2714856/jigsaw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qwer2714856/jigsaw/issues"
+  },
+  "homepage": "https://github.com/qwer2714856/jigsaw#readme",
+  "devDependencies": {
+    "semantic-release": "^15.13.19"
+  }
+}
